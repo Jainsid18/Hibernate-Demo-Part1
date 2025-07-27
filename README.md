@@ -15,3 +15,15 @@
 -ManyToMany
 
 6.Fetch EAGER and LAZY
+
+ #HibernateTheoryPart2
+ 1.Caching .
+ 
+ Types of caching:-First level and second level
+
+#HibernateTheoryPart3
+1.HQL(Hibenate Query Language)
+2.Hibernate Object State
+3.Get and Load
+2
+ 
